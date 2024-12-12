@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Computer Science and Engineering student at Alma Mater Studiorum - Università di Bologna, Cesena's campus.
+
 <!--
 **Corstor/Corstor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
